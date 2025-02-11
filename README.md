@@ -1,0 +1,1 @@
+Simple freecodecamp code test.
